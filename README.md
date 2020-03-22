@@ -1,5 +1,7 @@
 # Safe-Drive
 Driver Drowsiness, Aggressiveness, Distracted-ness detection Software
+
+# Preview
 SafeDrive is a software developed to reduce the accidents/mishaps occurring on the road 
 due to driver negligence.
 
